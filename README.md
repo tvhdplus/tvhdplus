@@ -14,18 +14,18 @@ My hobbies are:
  - Jugar video games (ejercitar estrategias) 🎮 👾;
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contactame!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="batiromero" height="20" width="auto" /> - Linkedin profile</a>
+<a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
 </p>
 <p align="left">
-<a href="mailto:marcosmc86@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="mattmromero@gmail.com" height="20" width="auto" /> - mattmromero@gmail.com</a>
+<a href="mailto:marcosmc86@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="marcosmc86@gmail.com" height="20" width="auto" /> - mattmromero@gmail.com</a>
 <!-- </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank">Linkedin</a>
 </p> -->
 
-<h3 align="center">Technologies I've learned & I'm learning:</h3>
+<h3 align="center">Tecnologias que aprendi y sigo aprendiendo:</h3>
 <p align='center'>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> Javascript</a>
 <a href="https://www.w3.org/html/" target="_blank">HTML5 </a>
