@@ -2,13 +2,13 @@
 <img align='center' src='https://media-exp1.licdn.com/dms/image/C5616AQFYUuvHzpbqOQ/profile-displaybackgroundimage-shrink_350_1400/0/1627273022403?e=1632960000&v=beta&t=-EH3r5w29GaOnLjOm7BZPoPCbFSwHI7Y5eM2gNGB0dE' alt='My name is Marcos.' />
 </p> 
 Hola, Mi nombre es Marcos Cruz 👋😏
-
+<br/>
 
 Termine mis estudios Henry's bootcamp (+700 hours) 🙌
 
 Autodidacta y disciplinado .Me gusta mucho la programacion!* 👨‍🎓 
 
-My hobbies are:
+Mis hobies son:
  - Escuchar musica y programar 🎧 🎼  ;
  - Jugar al futbol ⚽️ ;
  - Jugar video games (ejercitar estrategias) 🎮 👾;
@@ -47,10 +47,15 @@ My hobbies are:
 <a href="https://www.gnu.org/software/bash/" target="_blank">Bash </a>
 
 <a href="https://git-scm.com/" target="_blank">Git </a>
+ 
 <a href="https://git-scm.com/" target="_blank">GitHub </a>
+ 
 <a href="https://www.figma.com/" target="_blank">Figma </a>
+ 
 <a href="https://heroku.com" target="_blank">Heroku </a>
+ 
 <a href="https://unity.com/" target="_blank"> </a>
+ 
 <a href="https://postman.com" target="_blank">Postman</a>
 
 </p>
