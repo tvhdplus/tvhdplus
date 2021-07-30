@@ -1,5 +1,5 @@
 <p align='center'>
-<img align='center' src='./assets/images/helloworld_finished.png' alt='My name is Matias Romero.' />
+<img align='center' src='https://www.linkedin.com/in/marcos-cruz-front-end/detail/background-image/' alt='My name is Marcos.' />
 </p> 
 Hola, Mi nombre es Marcos Cruz 👋😏
 
