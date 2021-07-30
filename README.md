@@ -1,17 +1,17 @@
 <p align='center'>
-<img align='center' src='https://www.linkedin.com/in/marcos-cruz-front-end/detail/background-image/' alt='My name is Marcos.' />
+<img align='center' src='https://media-exp1.licdn.com/dms/image/C5616AQFYUuvHzpbqOQ/profile-displaybackgroundimage-shrink_350_1400/0/1627273022403?e=1632960000&v=beta&t=-EH3r5w29GaOnLjOm7BZPoPCbFSwHI7Y5eM2gNGB0dE' alt='My name is Marcos.' />
 </p> 
 Hola, Mi nombre es Marcos Cruz 👋😏
+
 
 Termine mis estudios Henry's bootcamp (+700 hours) 🙌
 
 Autodidacta y disciplinado .Me gusta mucho la programacion!* 👨‍🎓 
 
 My hobbies are:
- - Listening 🎧 🎼  ;
- - Reading fiction books 👽 (we are not alone);
- - Playing ⚽️ 🏀;
- - Playing video games 🎮 👾;
+ - Escuchar musica y programar 🎧 🎼  ;
+ - Jugar al futbol ⚽️ ;
+ - Jugar video games (ejercitar estrategias) 🎮 👾;
 
 
 <h3 align="left">Connect with me!</h3>
@@ -20,10 +20,10 @@ My hobbies are:
 </p>
 <p align="left">
 <a href="mailto:marcosmc86@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="mattmromero@gmail.com" height="20" width="auto" /> - mattmromero@gmail.com</a>
-</p>
+<!-- </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank">Linkedin</a>
-</p>
+</p> -->
 
 <h3 align="center">Technologies I've learned & I'm learning:</h3>
 <p align='center'>
@@ -45,7 +45,7 @@ My hobbies are:
 <a href="https://www.mysql.com/" target="_blank">Mysql </a>
 <a href="https://www.sqlite.org/" target="_blank">Sqlite</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">Bash </a>
-<a href="https://mochajs.org" target="_blank">Mocha Js </a>
+
 <a href="https://git-scm.com/" target="_blank">Git </a>
 <a href="https://git-scm.com/" target="_blank">GitHub </a>
 <a href="https://www.figma.com/" target="_blank">Figma </a>
