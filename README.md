@@ -3,8 +3,10 @@
 </p> 
 
 <h3> HOLA, Mi nombre es Marcos Cruz 👋😏</h3>
-
+<br/>
 Termine mis estudios Henry's bootcamp (+700 hours) 🙌
+
+...y ademas, recientemenre termine el bootcamp de Frontend Developer (ReactJs) de OpenBootcamp (España) 🙌
 
 Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion!* 👨‍🎓 
 
