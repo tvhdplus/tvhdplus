@@ -1,5 +1,5 @@
 <p align='center'>
-<img align='center' src='https://media-exp1.licdn.com/dms/image/C5616AQFYUuvHzpbqOQ/profile-displaybackgroundimage-shrink_350_1400/0/1627273022403?e=1632960000&v=beta&t=-EH3r5w29GaOnLjOm7BZPoPCbFSwHI7Y5eM2gNGB0dE' alt='My name is Marcos.' />
+<img align='center' src='https://i.ibb.co/V3c5gzG/Banner-Marcos-X-developer.jpg' alt='<Marcos/>.' />
 </p> 
 HOLA, Mi nombre es Marcos Cruz 👋😏
 <h3> </h3>
