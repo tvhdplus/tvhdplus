@@ -1,11 +1,12 @@
 <p align='center'>
 <img align='center' src='https://i.ibb.co/V3c5gzG/Banner-Marcos-X-developer.jpg' alt='<Marcos/>.' />
 </p> 
-HOLA, Mi nombre es Marcos Cruz 👋😏
-<h3> </h3>
+
+<h3> HOLA, Mi nombre es Marcos Cruz 👋😏</h3>
+
 Termine mis estudios Henry's bootcamp (+700 hours) 🙌
 
-Autodidacta y disciplinado .Me gusta mucho la programacion!* 👨‍🎓 
+Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion!* 👨‍🎓 
 
 Mis hobies son:
  - Escuchar musica y programar 🎧 🎼  ;
@@ -27,7 +28,9 @@ Mis hobies son:
 <h3 align="center">Tecnologias que aprendi y sigo aprendiendo:</h3>
 <p align='center'>
  
-✔ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> Javascript</a>  --  ✔ <a href="https://www.w3.org/html/" target="_blank">HTML5 </a>  --  ✔ <a href="https://www.w3schools.com/css/" target="_blank">CSS3 </a>  --  ✔ <a href="https://getbootstrap.com" target="_blank">Bootstrap </a>  --  ✔ <a href="https://reactjs.org/" target="_blank">React Js </a>  --  ✔ <a href="https://redux.js.org" target="_blank">Redux </a>  --  ✔ <a href="https://material-ui.com/" target="_blank">Material-Ui </a>  --  ✔ <a href="https://nodejs.org" target="_blank">Node Js </a>  --  ✔ <a href="https://expressjs.com" target="_blank">Express Js </a>  --  ✔ <a href="https://www.nginx.com" target="_blank">Nginx</a>  --  ✔ <a href="https://webpack.js.org" target="_blank">WebPack </a>  --  ✔ <a href="https://firebase.google.com/" target="_blank">Firebase </a>  --  ✔ <a href="https://supabase.io/" target="_blank">Supabase </a>  --  ✔ <a href="https://www.postgresql.org" target="_blank">Postgresql </a>  --  ✔ <a href="https://www.mysql.com/" target="_blank">Mysql </a>  --  ✔ <a href="https://www.sqlite.org/" target="_blank">Sqlite</a>  --  ✔ <a href="https://www.gnu.org/software/bash/" target="_blank">Bash </a>  --  ✔ <a href="https://git-scm.com/" target="_blank">Git </a>  --  ✔ <a href="https://git-scm.com/" target="_blank">GitHub </a>  --  ✔ <a href="https://www.figma.com/" target="_blank">Figma </a>  --  ✔ <a href="https://heroku.com" target="_blank">Heroku </a>  --  ✔ <a href="https://postman.com" target="_blank">Postman</a> 
+✔ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> Javascript</a>  --  ✔ <a href="https://www.w3.org/html/" target="_blank">HTML5 </a>  --  ✔ <a href="https://www.w3schools.com/css/" target="_blank">CSS3 </a>  --  ✔ <a href="https://getbootstrap.com" target="_blank">Bootstrap </a>  --  ✔ <a href="https://reactjs.org/" target="_blank">React Js </a>  --  ✔ <a href="https://redux.js.org" target="_blank">Redux </a>  --  ✔ <a href="https://nodejs.org" target="_blank">Node Js </a> --  ✔ <a href="https://expressjs.com" target="_blank">Express Js </a>  --  ✔ <a href="https://www.postgresql.org" target="_blank">Postgresql </a>
+ 
+✔ <a href="https://material-ui.com/" target="_blank">Material-Ui </a>    --  ✔ <a href="https://webpack.js.org" target="_blank">WebPack </a>  --  ✔ <a href="https://firebase.google.com/" target="_blank">Firebase </a>   --  ✔ <a href="https://www.mysql.com/" target="_blank">Mysql </a>  --  ✔ <a href="https://www.gnu.org/software/bash/" target="_blank">Bash </a>  --  ✔ <a href="https://git-scm.com/" target="_blank">Git </a>  --  ✔ <a href="https://git-scm.com/" target="_blank">GitHub </a>  --  ✔ <a href="https://www.figma.com/" target="_blank">Figma </a>  --  ✔ <a href="https://heroku.com" target="_blank">Heroku </a>  --  ✔ <a href="https://postman.com" target="_blank">Postman</a> --  ✔ <a href="https://trello.com" target="_blank">Trello</a> 
 </p>
 
 
