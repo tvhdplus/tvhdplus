@@ -16,7 +16,7 @@ Mis hobies son:
  - Jugar video games (ejercitar estrategias) 🎮 👾;
 
 
-<h3 align="left">Contactame!</h3>
+🌐 <h3 align="left">Contactame!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
 </p>
@@ -27,6 +27,11 @@ Mis hobies son:
 <a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="" alt="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" height="20" width="auto" />Linkedin</a>
 </p> -->
 
+ ### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marco5x&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marco5x&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marco5x&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ 
 <h3 align="center">Tecnologias que aprendi y sigo aprendiendo:</h3>
 <p align='center'>
  
