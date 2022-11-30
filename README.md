@@ -18,7 +18,7 @@ Mis hobies son:
 
 🌐 <h3 align="left">Contactame!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
+<a href="https://www.linkedin.com/in/marcos-cruz-dev/" target="_blank"><img align="center" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
 </p>
 <p align="left">
 <a href="mailto:marcosmc86@gmail.com" target="_blank"><img align="center" src="https://clipground.com/images/logo-gmail-png-1.png" alt="marcosmc86@gmail.com" height="20" width="auto" /> - marcosmc86@gmail.com</a>
