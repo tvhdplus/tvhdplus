@@ -8,13 +8,9 @@ Termine mis estudios Henry's bootcamp (+700 hours) 🙌
 
 ...y ademas, recientemenre termine el bootcamp de Frontend Developer (ReactJs) de OpenBootcamp (España) 🙌
 
-Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion!* 👨‍🎓 
+Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion! 👨‍🎓 
 
-Mis hobies son:
- - Escuchar musica y programar 🎧 🎼  ;
- - Jugar al futbol ⚽️ ;
- - Jugar video games (ejercitar estrategias) 🎮 👾;
-
+<h3>Objetivo:</h3><p> Me encanta la idea de poder contribuir con mi conocimiento para ayudar a otros a lograr sus objetivos. Estoy seguro de que mis habilidades como programador serían un gran valor para su empresa y estoy ansioso por tener la oportunidad de demostrarlo.</p>
 
 🌐 <h3 align="left">Contactame!</h3>
 <p align="left">
