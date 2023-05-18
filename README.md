@@ -1,5 +1,5 @@
 <p align='center'>
-<img align='center' src='https://i.ibb.co/V3c5gzG/Banner-Marcos-X-developer.jpg' alt='<Marcos/>.' />
+<img align='center' src='https://i.ibb.co/nMh87YB/Banner-Marcos-X-developer.jpg' alt='<Marcos/>.' />
 </p> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9EF7&width=435&lines=HOLA%2C+Mi+nombre+es+Marcos+Cruz+;Full+Stack+Development" alt="Typing SVG" /></a>
