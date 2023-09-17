@@ -2,9 +2,9 @@
 <img align='center' src='https://i.ibb.co/nMh87YB/Banner-Marcos-X-developer.jpg' alt='<Marcos/>.' />
 </p> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9EF7&width=435&lines=HOLA%2C+Mi+nombre+es+Marcos+Cruz+;Full+Stack+Development" alt="Typing SVG" /></a>
+
 <br/>
-Termine mis estudios Henry's bootcamp (+700 hours) 🙌
+Termine mis estudios de programacion 🙌
 
 ...y ademas, recientemenre termine el bootcamp de Frontend Developer (ReactJs) de OpenBootcamp (España) 🙌
 
@@ -14,19 +14,15 @@ Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion! 👨�
 
 🌐 <h3 align="left">Contactame!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-cruz-dev/" target="_blank"><img align="center" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
+<a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" alt="marcos-cruz" height="20" width="auto" /> - Linkedin profile</a>
 </p>
 <p align="left">
-<a href="mailto:marcosmc86@gmail.com" target="_blank"><img align="center" src="https://clipground.com/images/logo-gmail-png-1.png" alt="marcosmc86@gmail.com" height="20" width="auto" /> - marcosmc86@gmail.com</a>
-<!-- </p>
+<a href="mailto:tvhde3@gmail.com" target="_blank"><img align="center" src="https://clipground.com/images/logo-gmail-png-1.png" alt="alt" height="20" width="auto" /> - marcosmc86@gmail.com</a>
+</p>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-cruz-front-end/" target="_blank"><img align="center" src="" alt="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" height="20" width="auto" />Linkedin</a>
-</p> -->
-
- ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marco5x&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marco5x&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marco5x&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="" alt="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" height="20" width="auto" />Linkedin</a>
+</p>
+### 📊 GitHub Stats:
  
 <h3 align="center">Tecnologias que aprendi y sigo aprendiendo:</h3>
 <p align='center'>
@@ -38,9 +34,6 @@ Autodidacta, perseverante y disciplinado. Me gusta mucho la programacion! 👨�
 
 
 
-<!--
-**Marco5X/marco5X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -51,4 +44,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
